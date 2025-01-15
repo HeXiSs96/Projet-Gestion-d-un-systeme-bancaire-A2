@@ -35,9 +35,8 @@ Il inclut également des tests unitaires pour assurer la robustesse du code, en 
 #### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/Angy-prt/Projet-Gestion-d-un-systeme-bancaire-A2
-cd Projet-Gestion-d-un-systeme-bancaire-A2
-```
+git clone https://github.com/HeXiSs96/Projet-Gestion-d-un-parc-de-v-hicules.git
+cd Projet-Gestion-d-un-parc-de-v-hicules
 #### 2. Compiler le projet
 
 ```bash
